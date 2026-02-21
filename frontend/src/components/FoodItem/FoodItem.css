@@ -69,6 +69,12 @@
     background-color: white;
 }
 
+.food-item-counter p{
+    width: 20px;
+    text-align: center; 
+    margin: 0;
+}
+
 .food-item-counter img{
     width: 30px;
 }
